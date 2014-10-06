@@ -1,5 +1,6 @@
 body{
 	background-color: white
+ 
 }
 div.row1{
 	text-align: center;
@@ -7,11 +8,22 @@ div.row1{
 div.carousel-inner{
 	text-align: center;
 }
-#MOBeef{
-height: 80%;
-width: 80%;
+#Beef{
+height: 70%;
+width: 70%;
+}
+
+#IceCream{
+	height: 70%;
+	width: 70%;
 }
 
 section.Snacks{
 	text-align: center;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+section.Burgers{
+	text-align: center;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
