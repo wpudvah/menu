@@ -18,6 +18,16 @@ width: 70%;
 	width: 70%;
 }
 
+section.hours{
+	text-align: center;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+section.address{
+	text-align: center;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
 section.Snacks{
 	text-align: center;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
@@ -34,6 +44,11 @@ section.SidesBurgerBattleFries{
 }
 
 section.SpecialsSalads{
+	text-align: center;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+section.ContactUs{
 	text-align: center;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
