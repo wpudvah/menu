@@ -1,7 +1,8 @@
 body{
-	background-color: white
+	background-color: white;
  
 }
+
 div.row1{
 	text-align: center;
 }
@@ -21,34 +22,41 @@ width: 70%;
 section.hours{
 	text-align: center;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background-color: white;
 }
 
 section.address{
 	text-align: center;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background-color: white;
 }
 
 section.Snacks{
 	text-align: center;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background-color: white;
 }
 
 section.Burgers{
 	text-align: center;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background-color: white;
 }
 
 section.SidesBurgerBattleFries{
 	text-align: center;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background-color: white;
 }
 
 section.SpecialsSalads{
 	text-align: center;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background-color: white;
 }
 
 section.ContactUs{
 	text-align: center;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background-color: white;
 }
